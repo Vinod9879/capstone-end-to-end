@@ -1,0 +1,12 @@
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.AssemblyInfoInputs.cache
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.AssemblyInfo.cs
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.csproj.CoreCompileInputs.cache
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\bin\Debug\net9.0\DocumentVerificationDLL.deps.json
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\bin\Debug\net9.0\DocumentVerificationDLL.dll
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\bin\Debug\net9.0\DocumentVerificationDLL.pdb
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.csproj.AssemblyReference.cache
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.dll
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\refint\DocumentVerificationDLL.dll
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\DocumentVerificationDLL.pdb
+C:\Users\Siddlingreddy\OneDrive\Desktop\New folder (2)\webApitest\DocumentVerificationDLL\DocumentVerificationDLL\obj\Debug\net9.0\ref\DocumentVerificationDLL.dll
